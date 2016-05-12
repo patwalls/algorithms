@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+
+    <script type="text/javascript">
+
+    function buildArray(n, callback) {
+      array = [];
+      for (var i = 0; i < n.length; i++) {
+        var el = callback(n[i]);
+        array.push(el);
+      }
+      return array;
+    }
+
+    var arr = buildArray('hello', function(i) {
+                return i.toUpperCase();
+              })
+
+    console.log(arr);
+
+
+
+
+    </script>
+
+  </body>
+</html>
