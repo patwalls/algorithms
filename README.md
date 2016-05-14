@@ -702,3 +702,4 @@
 [p1]:https://leetcode.com/problems/two-sum/
 
 [s347]:./algorithms/top_k_frequent_elements.rb
+[s146]:./leet_code/146_lru_cache.rb
