@@ -350,8 +350,6 @@
 |   1 | [Two Sum][p1]                                                       | [Ruby][s1]    | Medium      |
 
 
-
-
 [p348]:https://leetcode.com/problems/design-tic-tac-toe/
 [p347]:https://leetcode.com/problems/top-k-frequent-elements/
 [p346]:https://leetcode.com/problems/moving-average-from-data-stream/
@@ -701,5 +699,25 @@
 [p2]:https://leetcode.com/problems/add-two-numbers/
 [p1]:https://leetcode.com/problems/two-sum/
 
-[s347]:./algorithms/top_k_frequent_elements.rb
+[s13]:./leet_code/13_roman_to_integer.rb
+[s36]:./leet_code/36_valid_sudoku.rb
+[s54]:./leet_code/54_spiral_matrix.rb
+[s70]:./leet_code/70_climbing_stairs.rb
+[s104]:./leet_code/104_max_depth_binary_tree.rb
+[s139]:./leet_code/139_word_break.rb
 [s146]:./leet_code/146_lru_cache.rb
+[s171]:./leet_code/171_excel_sheet_column_number.rb
+[s172]:./leet_code/172_factorial_trailing_zeroes.rb
+[s200]:./leet_code/200_number_of_islands.rb
+[s202]:./leet_code/202_happy_number.rb
+[s209]:./leet_code/209_minimum_size_subarray.rb
+[s268]:./leet_code/268_k_numbers_missing.rb
+[s282]:./leet_code/282_expression_add_operators.rb
+[s297]:./leet_code/297_serialize_and_deserialize.rb
+[s316]:./leet_code/316_remove_duplicate_letters.rb
+[s318]:./leet_code/318_maximum_product_of_word_lengths.rb
+[s332]:./leet_code/332_reconstruct_itinerary.rb
+[s338]:./leet_code/338_counting_bits.rb
+[s343]:./leet_code/343_integer_break.rb
+[s344]:./leet_code/344_reverse_string_in_place.rb
+
